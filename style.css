@@ -63,7 +63,7 @@ button{
     cursor: pointer;
     margin: 10px 15px;
     transition: transform 0.5s;
-    background-image: url(images/mrsm.jpg);
+    background-image: url(mrsm.jpg);
     background-position: center;
     background-size: cover;
     transition: 0.7s ease;
@@ -175,15 +175,15 @@ nav ul li a{
     transform: translateY(-10px);
 }
 .card1{
-    background-image: url(images/olvan3.jpg);
+    background-image: url(olvan3.jpg);
     background-position: center;
 }
 .card2{
-    background-image: url(images/olvan7.jpg);
+    background-image: url(olvan7.jpg);
     background-position: right;
 }
 .card3{
-    background-image: url(images/olvan8.jpg);
+    background-image: url(olvan8.jpg);
     margin-left: 34%;
     background-position: center;
 }
@@ -272,19 +272,19 @@ nav ul li a{
     transform: translateY(-10px);
 }
 .card4{
-    background-image: url(images/olvan15.jpg);
+    background-image: url(olvan15.jpg);
     background-position: center;
 }
 .card5{
-    background-image: url(images/olvan13.jpg);
+    background-image: url(olvan13.jpg);
     background-position: center;
 }
 .card6{
-    background-image: url(images/olvan20.jpg);
+    background-image: url(olvan20.jpg);
     background-position: center;
 }
 .card7{
-    background-image: url(images/olvan4.jpg);
+    background-image: url(olvan4.jpg);
     background-position: center;
 }
 .start-text{
@@ -374,38 +374,38 @@ table, th, td{
     transform: translateY(-10px);
 }
 .card8{
-    background-image: url(images/olvan12.jpg);
+    background-image: url(olvan12.jpg);
     background-position: center;
 }
 .card9{
-    background-image: url(images/olvan5.jpg);
+    background-image: url(olvan5.jpg);
     background-position: center;
 }
 .card10{
-    background-image: url(images/olvan1.jpg);
+    background-image: url(olvan1.jpg);
     background-position: center;
 }
 .card11{
-    background-image: url(images/olvan6.jpg);
+    background-image: url(olvan6.jpg);
     background-position: center;
 }
 .card12{
-    background-image: url(images/olvan21.jpg);
+    background-image: url(olvan21.jpg);
     background-position: center;
     margin-bottom: 80px;
 }
 .card13{
-    background-image: url(images/olvan16.jpg);
+    background-image: url(olvan16.jpg);
     background-position: center;
     margin-bottom: 80px;
 }
 .card14{
-    background-image: url(images/olvan19.jpg);
+    background-image: url(olvan19.jpg);
     background-position: center;
     margin-bottom: 80px;
 }
 .card15{
-    background-image: url(images/olvan10.jpg);
+    background-image: url(olvan10.jpg);
     background-position: center;
     margin-bottom: 80px;
 }
@@ -506,11 +506,11 @@ table, th, td{
     transform: translateY(-10px);
 }
 .card16{
-    background-image: url(images/nvan9.jpg);
+    background-image: url(nvan9.jpg);
     background-position: center;
 }
 .card17{
-    background-image: url(images/nvan12.jpg);
+    background-image: url(nvan12.jpg);
     background-position: center;
 }
 .line-18{
@@ -592,38 +592,38 @@ table, th, td{
     transform: translateY(-10px);
 }
 .card18{
-    background-image: url(images/nvan4.jpg);
+    background-image: url(nvan4.jpg);
     background-position: center;
 }
 .card19{
-    background-image: url(images/nvan11.jpg);
+    background-image: url(nvan11.jpg);
     background-position: center;
 }
 .card20{
-    background-image: url(images/nvan10.jpg);
+    background-image: url(nvan10.jpg);
     background-position: center;
 }
 .card21{
-    background-image: url(images/nvan13.jpg);
+    background-image: url(nvan13.jpg);
     background-position: center;
 }
 .card22{
-    background-image: url(images/taekwondo.jpg);
+    background-image: url(taekwondo.jpg);
     background-position: center;
     margin-bottom: 80px;
 }
 .card23{
-    background-image: url(images/taekwondo2.jpg);
+    background-image: url(taekwondo2.jpg);
     background-position: center;
     margin-bottom: 80px;
 }
 .card24{
-    background-image: url(images/taekwondo3.jpg);
+    background-image: url(taekwondo3.jpg);
     background-position: center;
     margin-bottom: 80px;
 }
 .card25{
-    background-image: url(images/taekwondo4.jpg);
+    background-image: url(taekwondo4.jpg);
     background-position: center;
     margin-bottom: 80px;
 }
@@ -706,19 +706,19 @@ table, th, td{
     transform: translateY(-10px);
 }
 .card26{
-    background-image: url(images/end2.jpg);
+    background-image: url(end2.jpg);
     background-position: center;
 }
 .card27{
-    background-image: url(images/end4.jpg);
+    background-image: url(end4.jpg);
     background-position: center;
 }
 .card28{
-    background-image: url(images/end3.jpg);
+    background-image: url(end3.jpg);
     background-position: center;
 }
 .card29{
-    background-image: url(images/end5.jpg);
+    background-image: url(end5.jpg);
     background-position: center;
 }
 .line-27{
